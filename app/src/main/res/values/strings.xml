@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Testovoe12</string>
+    <string name="exchange_rate">EXCHANGE RATE</string>
+    <string name="news">NEWS</string>
+    <string name="settings">SETTINGS</string>
+    <string name="notificate">NOTIFICATE</string>
+    <string name="change_theme">CHANGE THEME</string>
+    <string name="ups_of_the_day">UPS OF THE DAY</string>
+    <string name="next">NEXT</string>
+    <string name="change_background">CHANGE BACKGROUND</string>
+</resources>
